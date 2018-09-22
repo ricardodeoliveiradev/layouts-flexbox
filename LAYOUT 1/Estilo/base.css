@@ -1,0 +1,7 @@
+body {
+    display: flex;
+    align-items: stretch; 
+    font-family: 'Indie Flower', cursive;
+    color: black;
+    font-size: 1em;
+}
